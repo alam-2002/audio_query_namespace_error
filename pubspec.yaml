@@ -1,4 +1,6 @@
-name: on_audio_query_workspace
+name: on_audio_query
+description: A plugin for querying audio files on Android and iOS devices.
+version: 0.1.0
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
